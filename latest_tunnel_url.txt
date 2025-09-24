@@ -1,1 +1,1 @@
-https://legislation-goes-amplifier-beautiful.trycloudflare.com
+http://127.0.0.1:5000]
